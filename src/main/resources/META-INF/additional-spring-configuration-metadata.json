@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.datasource.read.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.read.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.read.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.read.password'"
+  },
+  {
+    "name": "spring.datasource.read.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.read.username'"
+  },
+  {
+    "name": "spring.datasource.read.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.read.url'"
+  },
+  {
+    "name": "spring.datasource.write.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.write.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.write.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.write.password'"
+  },
+  {
+    "name": "spring.datasource.write.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.write.username'"
+  },
+  {
+    "name": "spring.datasource.write.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.write.url'"
+  }
+]}
